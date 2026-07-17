@@ -53,7 +53,7 @@ Aquí tienes algunos de los proyectos en los que he estado trabajando y aplicand
 
 Si quieres hablar sobre desarrollo web, colaborar en algún proyecto o simplemente conectar profesionalmente:
 
-- 💼 **LinkedIn:** [linkedin.com/in/tu-perfil](www.linkedin.com/in/carlos-alejandro-nuñez-leiva)
+- 💼 **LinkedIn:** www.linkedin.com/in/carlos-alejandro-nuñez-leiva
 - ✉️ **Correo:** [tu.correo@email.com](aleleiva201435@gmail.com)
   
 
