@@ -32,7 +32,6 @@ Un apasionado **Licenciado en Computación** enfocado en el desarrollo de softwa
 
 ### 📂 Proyectos Destacados
 
-Aquí tienes algunos de los proyectos en los que he estado trabajando y aplicando mis conocimientos:
 
 #### 🧪 [LABCLIMED](https://github.com/tu-usuario/labclimed)
 *Maquetación y diseño web premium para un laboratorio clínico.*
@@ -54,7 +53,7 @@ Aquí tienes algunos de los proyectos en los que he estado trabajando y aplicand
 Si quieres hablar sobre desarrollo web, colaborar en algún proyecto o simplemente conectar profesionalmente:
 
 - 💼 **LinkedIn:** www.linkedin.com/in/carlos-alejandro-nuñez-leiva
-- ✉️ **Correo:** [tu.correo@email.com](aleleiva201435@gmail.com)
+- ✉️ **Correo:** aleleiva201435@gmail.com
   
 
 ---
