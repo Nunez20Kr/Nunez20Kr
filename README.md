@@ -39,12 +39,6 @@ Aquí tienes algunos de los proyectos en los que he estado trabajando y aplicand
 *   **Tecnologías:** HTML5, CSS3 (layouts modernos y responsivos), JavaScript.
 *   **Clave del proyecto:** Estructura limpia, navegación intuitiva y un diseño visualmente atractivo adaptado a las necesidades del sector salud.
 
-#### 🎵 [Lyric Display Interactivo](https://github.com/tu-usuario/lyric-player)
-*Aplicación web interactiva que permite la visualización dinámica de letras de canciones mediante eventos de teclado.*
-*   **Tecnologías:** JavaScript moderno, manipulación del DOM, CSS.
-*   **Clave del proyecto:** Control fluido del flujo del texto mediante interacciones rápidas, ideal para presentaciones o karaoke minimalista.
-
----
 
 ### 📈 Mis Estadísticas de GitHub
 
@@ -59,12 +53,12 @@ Aquí tienes algunos de los proyectos en los que he estado trabajando y aplicand
 
 Si quieres hablar sobre desarrollo web, colaborar en algún proyecto o simplemente conectar profesionalmente:
 
-- 💼 **LinkedIn:** [linkedin.com/in/tu-perfil](https://linkedin.com/in/tu-perfil)
-- ✉️ **Correo:** [tu.correo@email.com](mailto:tu.correo@email.com)
-- 🌐 **Portfolio:** [tuportfolio.com](https://tuportfolio.com) (Opcional)
+- 💼 **LinkedIn:** [linkedin.com/in/tu-perfil](www.linkedin.com/in/carlos-alejandro-nuñez-leiva)
+- ✉️ **Correo:** [tu.correo@email.com](aleleiva201435@gmail.com)
+  
 
 ---
 <p align="center">
-  <i>"El código es como el humor: cuando tienes que explicarlo, es malo."</i>
+  <i>"EL SALVADOR"</i>
 </p>
 
