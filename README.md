@@ -29,7 +29,6 @@ Un apasionado **Licenciado en Computación** enfocado en el desarrollo de softwa
 </p>
 
 ---
-
 ### 📂 Proyectos Destacados
 
 
