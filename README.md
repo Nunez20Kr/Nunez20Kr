@@ -10,7 +10,7 @@ Un apasionado **Licenciado en Computación** enfocado en el desarrollo de softwa
 - 🎓 **Formación:** Licenciado en Computación.
 - 💻 **Enfoque actual:** Desarrollo Frontend (diseño adaptable, lógica de interacción y maquetación premium).
 - 🛠️ **Filosofía de desarrollo:** Código limpio, semántico y enfocado en la experiencia del usuario (UX).
-- ⚙️ **Otros intereses:** Automatización, optimización de flujos de trabajo y, en mis tiempos libres, resolver retos de lógica y trastear con proyectos de hardware/bricolaje.
+- ⚙️ **Otros intereses:** Automatización, optimización de flujos de trabajo y, en mis tiempos libres, resolver retos de lógica y trastear con proyectos de hardware.
 
 ---
 
