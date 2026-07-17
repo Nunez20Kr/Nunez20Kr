@@ -37,6 +37,11 @@ Un apasionado **Licenciado en Computación** enfocado en el desarrollo de softwa
 *   **Tecnologías:** HTML5, CSS3 (layouts modernos y responsivos), JavaScript.
 *   **Clave del proyecto:** Estructura limpia, navegación intuitiva y un diseño visualmente atractivo adaptado a las necesidades del sector salud.
 
+  #### 🏥 [Aplicación de Escritorio para Consultorio Médico](https://github.com/Nunez20Kr/consultorio-medico)
+*Sistema de gestión local diseñado para optimizar el flujo de trabajo de un consultorio médico.*
+*   **Tecnologías:** (C#, Java, Python, .NET, SQL)*
+*   **Clave del proyecto:** Control de expedientes de pacientes, gestión de citas, registro de historial clínico y una interfaz intuitiva enfocada en la productividad del personal de salud.
+
 
 
 ### 📫 ¿Cómo contactar conmigo?
